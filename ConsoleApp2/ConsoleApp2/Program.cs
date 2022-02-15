@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace TextRPG
 {
-    internal class Program
+    internal class RootClass
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("\n\t\t\t\t\t\t\tWarning!\n\t\t\t\t\tThis game is not finished lmao!\n");
             Console.Write("press 1 to continue\n");
